@@ -30,7 +30,7 @@ A simple and lightweight Python program to help users **track income, record exp
 4. Run the script:
 
    ```bash
-   python budget_manager.py
+   python vityarthi project.py
    ```
 
 ---
